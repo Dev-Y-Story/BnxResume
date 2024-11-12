@@ -1,0 +1,28 @@
+{
+  "skills": [
+    {
+      "category": "Programming languages",
+      "items": ["Java", "JavaScript", "JSP", "PHP"]
+    },
+    {
+      "category": "Web technologies",
+      "items": [
+        "Spring MVC",
+        "MyBatis",
+        "JSTL/EL",
+        "Tiles",
+        "HTML5",
+        "CSS3",
+        "JQuery"
+      ]
+    },
+    {
+      "category": "Mobile app development",
+      "items": ["Android", "Cordova"]
+    },
+    {
+      "category": "Databases",
+      "items": ["MySQL", "Oracle", "MSSQL", "SQLite"]
+    }
+  ]
+}

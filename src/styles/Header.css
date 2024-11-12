@@ -1,0 +1,46 @@
+/* Header.css */
+.header {
+  padding: 20px 0;
+  border-bottom: none;
+}
+
+.header-content {
+  display: flex;
+  align-items: center;
+  margin-bottom: 10px;
+}
+
+.header-title {
+  display: flex;
+  align-items: center;
+}
+
+.header-initials {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 40px;
+  font-weight: bold;
+  color: #007bff;
+  border: 2px solid #007bff;
+  border-radius: 50%;
+  width: 70px;
+  height: 70px;
+  margin-right: 20px;
+  text-align: center;
+}
+
+.header-title h1 {
+  font-size: 32px;
+  color: #007bff;
+}
+
+.contact-info {
+  font-size: 14px;
+  color: #555;
+  margin-left: 20px;
+}
+
+.contact-info p {
+  margin: 5px 0;
+}

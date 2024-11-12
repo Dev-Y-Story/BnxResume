@@ -1,0 +1,51 @@
+/* Education.css */
+.education {
+  padding: 20px 0;
+  border: none;
+}
+
+.education-timeline {
+  padding-left: 30px;
+  border-left: 2px solid #ddd;
+}
+
+.education-item {
+  margin-bottom: 30px;
+  padding-left: 20px;
+}
+
+.education-item::before {
+  content: "";
+  position: absolute;
+  left: -10px;
+  top: 5px;
+  width: 10px;
+  height: 10px;
+  background-color: #007bff;
+  border-radius: 50%;
+  border: 2px solid #ffffff;
+}
+
+.degree {
+  font-size: 16px;
+  font-weight: bold;
+  color: #333;
+}
+
+.duration {
+  font-size: 14px;
+  color: #555;
+}
+
+.institution {
+  font-size: 14px;
+  font-weight: bold;
+  color: #777;
+  margin-top: 5px;
+}
+
+.description {
+  font-size: 14px;
+  color: #555;
+  margin-top: 5px;
+}

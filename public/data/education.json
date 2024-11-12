@@ -1,0 +1,16 @@
+{
+  "education": [
+    {
+      "degree": "Bachelor of Science | Computer Science",
+      "institution": "Korea National Open University, Seoul",
+      "duration": "08/2020",
+      "description": "The Department of Computer Science teaches computer technology."
+    },
+    {
+      "degree": "Associate of Science | Mobile Content",
+      "institution": "Kyungnam College of Information & Technology, Busan",
+      "duration": "02/2016",
+      "description": "The Department of mobile content teaches Android development."
+    }
+  ]
+}

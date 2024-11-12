@@ -1,0 +1,24 @@
+{
+  "experiences": [
+    {
+      "position": "INTERMEDIATE JAVA DEVELOPER",
+      "company": "BizTech-i | Seoul, South Korea",
+      "duration": "11/2017 to 05/2021",
+      "details": [
+        "Developed mobile groupware services for LG and its subsidiaries using Cordova and Android, ensuring compatibility with new devices through large-scale refactoring to upgrade from SDK 24 to 29.",
+        "Developed LG Display’s mobile-responsive In-House Systems, including absenteeism and tardiness management website, visit reservation platform, and logistics/materials app, using Spring MVC, Android, Cordova, and Oracle. Increased utilization by 10% as result of mobile availability.",
+        "Implemented test-driven development with Agile methodologies, Jira, Git, Jenkins, and Confluence, while mentoring junior developers and meeting deadlines in fast-paced environments."
+      ]
+    },
+    {
+      "position": "JUNIOR WEB DEVELOPER",
+      "company": "Navis Automotive Systems | Busan, South Korea",
+      "duration": "10/2015 to 03/2017",
+      "details": [
+        "Implemented synchronization programs for issue-tracking systems between Navis Automotive Systems and partner companies (BMW, Daimler, Harman, MapScape, Melco), resulting in 15% reduction in project management workload compared to Excel-based management.",
+        "Developed dynamic Jira ticket management using Java, Groovy, and ScriptRunner, and designed XML-based analysis tools for tests with Zephyr plug-in, resulting in 10% workload reduction by eliminating manual query writing and Excel extraction.",
+        "Developed in-house software with PHP, ASP, JAVA, Javascript, and VBA; built Linux-based server monitoring using Phpservermonitor and Cacti; deployed cloud services with KVM, Vir-manager, and Hyper-V; implemented storage services using ZFS and GlusterFS; configured Jenkins build environment; and streamlined SCM management through hooks scripts."
+      ]
+    }
+  ]
+}
